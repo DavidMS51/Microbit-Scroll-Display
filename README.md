@@ -15,7 +15,7 @@ included a 4 of basic demo apps for the Raspberry Pi end
 
 An x in the s/w name indicates a rev number which is likely to change in the future.
 
-Do to  
+To do  
 - clean up raspberry pi s/w
 - buy more micro:bits
 - build a dedicated Pi / micro:bit box
